@@ -1,0 +1,60 @@
+.panda-card {
+  border: none;
+}
+section {
+  padding: 20px 0px;
+}
+.panda-card-footer {
+  background-color: white;
+  border: none;
+  padding-bottom: 15px;
+}
+h3 {
+  font-size: 35px;
+  padding-bottom: 20px;
+}
+.cattagoris img {
+  width: 100px;
+}
+
+.header-contain-style h2 {
+  color: green;
+  padding: 15px 0px;
+
+  font-weight: 549;
+  font-size: 33px;
+}
+.header-contain-style h1 {
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+.panda-carosel-background .carousel-item {
+  background-color: #fceae8;
+  margin-top: 50px;
+  height: 500px;
+}
+
+#img {
+  width: 380px;
+  float: right;
+  align-items: center;
+}
+#img img {
+  max-width: 100%;
+}
+#img0 {
+  width: 400px;
+  float: right;
+  align-items: center;
+}
+#img0 img {
+  max-width: 100%;
+}
+input {
+  display: block;
+  padding-right: 120px;
+  padding-top: 5px;
+  padding-bottom: 7px;
+  border-radius: 7px;
+  border: 1px solid #ddd;
+}
