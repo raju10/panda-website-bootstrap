@@ -31,25 +31,8 @@ h3 {
 .panda-carosel-background .carousel-item {
   background-color: #fceae8;
   margin-top: 50px;
-  height: 500px;
 }
 
-#img {
-  width: 380px;
-  float: right;
-  align-items: center;
-}
-#img img {
-  max-width: 100%;
-}
-#img0 {
-  width: 400px;
-  float: right;
-  align-items: center;
-}
-#img0 img {
-  max-width: 100%;
-}
 input {
   display: block;
   padding-right: 120px;
